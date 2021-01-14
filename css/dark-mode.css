@@ -1,0 +1,20 @@
+﻿[data-theme="dark"] {
+    color: #eee;
+}
+
+[data-theme="dark"] #particles-js {
+    background-color: #000000 !important;
+}
+
+[data-theme="dark"] .page {
+    background: black !important;
+    border-color: #eee !important;
+}
+
+[data-theme="dark"] .divider.fat {
+    border-color: #117A65;
+}
+
+[data-theme="dark"] .contacts li a {
+    color: white;
+}
