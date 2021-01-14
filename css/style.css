@@ -1,0 +1,40 @@
+main {
+    background-color: white;
+    position: absolute;
+    left: 50%;
+    top: 5%;
+    margin-bottom: 25%;
+    margin-right: -50%;
+    transform: translate(-50%, 0%);
+    background-color: transparent;
+    width: 100%;
+}
+
+.avatar {
+    margin-top: 25px;
+    width: 132px;
+}
+
+.believer-text {
+    background-color: #117A65;
+    opacity: 0.8;
+    width: 94px;
+    color: white;
+}
+
+a {
+    color: #117A65;
+}
+
+.rott {
+    margin: 4px;
+    color: #117A65;
+}
+
+.name {
+    margin: 4px;
+}
+
+.contacts {
+    margin: 4px;
+}
